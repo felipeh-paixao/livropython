@@ -10,5 +10,5 @@ convidados.insert(0, 'Pai')
 convidados.insert(2, 'Janaína')
 convidados.append('Fabinho')
 
-for convidado in convidados:
+for convidado in convidados:    
     print('Seja bem-vindo ' + convidado)
